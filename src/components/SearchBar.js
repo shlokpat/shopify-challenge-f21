@@ -33,7 +33,7 @@ function SearchBar(props) {
 
   const handleClick = async (e) => {
     e.preventDefault();
-    const url = "http://www.omdbapi.com/?i=tt3896198&apikey=c8a5475d";
+    const url = "https://www.omdbapi.com/?i=tt3896198&apikey=c8a5475d";
     await axios
       .get(url, { params: { s: movie } })
       .then((response) => {
