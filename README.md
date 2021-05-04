@@ -19,7 +19,7 @@ You can:
  - React
  - Styled components
  - React-icons library (https://react-icons.github.io/react-icons)
-# App Screenshot
+# App Screenshots
 ![image](https://user-images.githubusercontent.com/46587444/117015832-18850080-acc0-11eb-8048-9ece4bf90184.png)
 
 ![image](https://user-images.githubusercontent.com/46587444/117015747-04410380-acc0-11eb-8587-e1eb4758aa3e.png)
