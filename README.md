@@ -13,4 +13,12 @@ You can:
  - Save nominations to local storage
  - Error handling (when search results cannot be found)
  - Banner pop-up with automatic scroll when 5 movies are nominated 
+ - Works on mobile
+
+# Tools Used
+ - React
+ - Styled components
+ - React-icons library (https://react-icons.github.io/react-icons)
+# App Screenshot
+![image](https://user-images.githubusercontent.com/46587444/117015362-a3b1c680-acbf-11eb-8b9d-f6f9d2e1ab3e.png)
 
