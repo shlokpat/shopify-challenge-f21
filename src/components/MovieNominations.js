@@ -15,7 +15,11 @@ const NominationContainer = styled.div`
   text-align: center;
   float: right;
   width: 48%;
-  border: 3px solid none;
+  @media all and (max-width: 800px) {
+    display: inline-block;
+    float: none;
+    width: 100%;
+  }
 `;
 const NomResult = styled.h2`
   color: black !important;

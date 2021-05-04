@@ -63,10 +63,8 @@ function App() {
     return isFull;
   };
   const isDuplicate = (movieData) => {
-    //let duplicate = false;
     for (var i = 0; i < nominations.length; i++) {
       if (nominations[i] === movieData) {
-        console.log("is dup ran");
         return true;
       }
     }

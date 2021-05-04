@@ -16,6 +16,11 @@ const MovieContainer = styled.div`
   float: left;
   width: 48%;
   min-height: 50px;
+  @media all and (max-width: 800px) {
+    display: inline-block;
+    float: none;
+    width: 100%;
+  }
 `;
 const MovieResult = styled.h2`
   color: black !important;
