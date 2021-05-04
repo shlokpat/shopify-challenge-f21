@@ -9,7 +9,7 @@ You can:
  - Nominate up to 5 films
  - View/remove movies from your nominations
 
-# Additional Functionality
+**Additional Functionality**
  - Save nominations to local storage
  - Error handling (when search results cannot be found)
  - Banner pop-up with automatic scroll when 5 movies are nominated 
